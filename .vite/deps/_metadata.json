@@ -1,0 +1,280 @@
+{
+  "hash": "16fc286e",
+  "configHash": "8b8ba3bc",
+  "lockfileHash": "ca886164",
+  "browserHash": "eee46b04",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "8adf811d",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "18b64a23",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "e218b4e4",
+      "needsInterop": true
+    },
+    "axios": {
+      "src": "../../axios/index.js",
+      "file": "axios.js",
+      "fileHash": "d2d91902",
+      "needsInterop": false
+    },
+    "react-bootstrap": {
+      "src": "../../react-bootstrap/esm/index.js",
+      "file": "react-bootstrap.js",
+      "fileHash": "0f4d3e28",
+      "needsInterop": false
+    },
+    "react-bootstrap/Button": {
+      "src": "../../react-bootstrap/esm/Button.js",
+      "file": "react-bootstrap_Button.js",
+      "fileHash": "47eaf49d",
+      "needsInterop": false
+    },
+    "react-bootstrap/Card": {
+      "src": "../../react-bootstrap/esm/Card.js",
+      "file": "react-bootstrap_Card.js",
+      "fileHash": "f7ed96eb",
+      "needsInterop": false
+    },
+    "react-bootstrap/Carousel": {
+      "src": "../../react-bootstrap/esm/Carousel.js",
+      "file": "react-bootstrap_Carousel.js",
+      "fileHash": "147332bd",
+      "needsInterop": false
+    },
+    "react-bootstrap/Col": {
+      "src": "../../react-bootstrap/esm/Col.js",
+      "file": "react-bootstrap_Col.js",
+      "fileHash": "d70c0de5",
+      "needsInterop": false
+    },
+    "react-bootstrap/Container": {
+      "src": "../../react-bootstrap/esm/Container.js",
+      "file": "react-bootstrap_Container.js",
+      "fileHash": "213d644f",
+      "needsInterop": false
+    },
+    "react-bootstrap/esm": {
+      "src": "../../react-bootstrap/esm/index.js",
+      "file": "react-bootstrap_esm.js",
+      "fileHash": "f0dfbc1e",
+      "needsInterop": false
+    },
+    "react-bootstrap/Form": {
+      "src": "../../react-bootstrap/esm/Form.js",
+      "file": "react-bootstrap_Form.js",
+      "fileHash": "f8d8d521",
+      "needsInterop": false
+    },
+    "react-bootstrap/InputGroup": {
+      "src": "../../react-bootstrap/esm/InputGroup.js",
+      "file": "react-bootstrap_InputGroup.js",
+      "fileHash": "1eef65a8",
+      "needsInterop": false
+    },
+    "react-bootstrap/ListGroup": {
+      "src": "../../react-bootstrap/esm/ListGroup.js",
+      "file": "react-bootstrap_ListGroup.js",
+      "fileHash": "aa43f204",
+      "needsInterop": false
+    },
+    "react-bootstrap/Nav": {
+      "src": "../../react-bootstrap/esm/Nav.js",
+      "file": "react-bootstrap_Nav.js",
+      "fileHash": "663cc789",
+      "needsInterop": false
+    },
+    "react-bootstrap/Navbar": {
+      "src": "../../react-bootstrap/esm/Navbar.js",
+      "file": "react-bootstrap_Navbar.js",
+      "fileHash": "f9ea56f7",
+      "needsInterop": false
+    },
+    "react-bootstrap/NavDropdown": {
+      "src": "../../react-bootstrap/esm/NavDropdown.js",
+      "file": "react-bootstrap_NavDropdown.js",
+      "fileHash": "81477876",
+      "needsInterop": false
+    },
+    "react-bootstrap/Row": {
+      "src": "../../react-bootstrap/esm/Row.js",
+      "file": "react-bootstrap_Row.js",
+      "fileHash": "9d2d990b",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "abcf181d",
+      "needsInterop": true
+    },
+    "react-icons/bs": {
+      "src": "../../react-icons/bs/index.mjs",
+      "file": "react-icons_bs.js",
+      "fileHash": "f86a0f84",
+      "needsInterop": false
+    },
+    "react-icons/ci": {
+      "src": "../../react-icons/ci/index.mjs",
+      "file": "react-icons_ci.js",
+      "fileHash": "a8e55e58",
+      "needsInterop": false
+    },
+    "react-icons/fa": {
+      "src": "../../react-icons/fa/index.mjs",
+      "file": "react-icons_fa.js",
+      "fileHash": "e2895e81",
+      "needsInterop": false
+    },
+    "react-icons/gi": {
+      "src": "../../react-icons/gi/index.mjs",
+      "file": "react-icons_gi.js",
+      "fileHash": "d22b843f",
+      "needsInterop": false
+    },
+    "react-icons/md": {
+      "src": "../../react-icons/md/index.mjs",
+      "file": "react-icons_md.js",
+      "fileHash": "f9da61ae",
+      "needsInterop": false
+    },
+    "react-icons/pi": {
+      "src": "../../react-icons/pi/index.mjs",
+      "file": "react-icons_pi.js",
+      "fileHash": "c1020a5d",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "b69ea6ca",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-WLQK4NOW": {
+      "file": "chunk-WLQK4NOW.js"
+    },
+    "chunk-IVDRYG64": {
+      "file": "chunk-IVDRYG64.js"
+    },
+    "chunk-HD7D4E3J": {
+      "file": "chunk-HD7D4E3J.js"
+    },
+    "chunk-W6QKHJRM": {
+      "file": "chunk-W6QKHJRM.js"
+    },
+    "chunk-FRYYRT3Z": {
+      "file": "chunk-FRYYRT3Z.js"
+    },
+    "chunk-E6IHA2U3": {
+      "file": "chunk-E6IHA2U3.js"
+    },
+    "chunk-E43SROTJ": {
+      "file": "chunk-E43SROTJ.js"
+    },
+    "chunk-RAOVWLAA": {
+      "file": "chunk-RAOVWLAA.js"
+    },
+    "chunk-YI7ZP7WZ": {
+      "file": "chunk-YI7ZP7WZ.js"
+    },
+    "chunk-VUUHK26S": {
+      "file": "chunk-VUUHK26S.js"
+    },
+    "chunk-RG5R2PP6": {
+      "file": "chunk-RG5R2PP6.js"
+    },
+    "chunk-6IY6Z7QC": {
+      "file": "chunk-6IY6Z7QC.js"
+    },
+    "chunk-CTY4GV6K": {
+      "file": "chunk-CTY4GV6K.js"
+    },
+    "chunk-OJSJNRD3": {
+      "file": "chunk-OJSJNRD3.js"
+    },
+    "chunk-4LVSZ64H": {
+      "file": "chunk-4LVSZ64H.js"
+    },
+    "chunk-7HYBUYOA": {
+      "file": "chunk-7HYBUYOA.js"
+    },
+    "chunk-S55FJCJP": {
+      "file": "chunk-S55FJCJP.js"
+    },
+    "chunk-ZJ3OSWJO": {
+      "file": "chunk-ZJ3OSWJO.js"
+    },
+    "chunk-NUDYIBJX": {
+      "file": "chunk-NUDYIBJX.js"
+    },
+    "chunk-TNEHR2JD": {
+      "file": "chunk-TNEHR2JD.js"
+    },
+    "chunk-XAJUVCBR": {
+      "file": "chunk-XAJUVCBR.js"
+    },
+    "chunk-HFS2TIZ4": {
+      "file": "chunk-HFS2TIZ4.js"
+    },
+    "chunk-4YDWNGQB": {
+      "file": "chunk-4YDWNGQB.js"
+    },
+    "chunk-26BDJZQW": {
+      "file": "chunk-26BDJZQW.js"
+    },
+    "chunk-JZQEA6CQ": {
+      "file": "chunk-JZQEA6CQ.js"
+    },
+    "chunk-B5SAJYTG": {
+      "file": "chunk-B5SAJYTG.js"
+    },
+    "chunk-VW4VFWGN": {
+      "file": "chunk-VW4VFWGN.js"
+    },
+    "chunk-R46KTWCR": {
+      "file": "chunk-R46KTWCR.js"
+    },
+    "chunk-SQNV3HWC": {
+      "file": "chunk-SQNV3HWC.js"
+    },
+    "chunk-EWO2FLC5": {
+      "file": "chunk-EWO2FLC5.js"
+    },
+    "chunk-OOBASL7Z": {
+      "file": "chunk-OOBASL7Z.js"
+    },
+    "chunk-Q3RSYG3V": {
+      "file": "chunk-Q3RSYG3V.js"
+    },
+    "chunk-SLR2NPT4": {
+      "file": "chunk-SLR2NPT4.js"
+    },
+    "chunk-Z5TEOTHO": {
+      "file": "chunk-Z5TEOTHO.js"
+    },
+    "chunk-XB44QIN4": {
+      "file": "chunk-XB44QIN4.js"
+    },
+    "chunk-HVLLINLV": {
+      "file": "chunk-HVLLINLV.js"
+    },
+    "chunk-HKLPI2XQ": {
+      "file": "chunk-HKLPI2XQ.js"
+    },
+    "chunk-ZS7NZCD4": {
+      "file": "chunk-ZS7NZCD4.js"
+    }
+  }
+}
