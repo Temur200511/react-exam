@@ -48,7 +48,7 @@ function Header() {
         {/* Left: Logo */}
         <div className="d-flex align-items-center">
           <Link to='/'>
-            <img src='/Logo.png' alt="logo" width={100} />
+            <img src='/Logo.png' alt="logot" width={100} />
           </Link>
         </div>
 
