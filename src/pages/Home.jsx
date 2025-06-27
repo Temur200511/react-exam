@@ -1,6 +1,6 @@
-import Slider from '../../src/components/Slider';
-import Categories from '../../src/components/Categories';
-import ProductContainer from '../../src/components/JustForYou';
+import Slider from '../components/Slider';
+import Categories from '../components/Categories';
+import ProductContainer from '../components/JustForYou';
 import Button from 'react-bootstrap/Button';
 
 const Home = () =>{
