@@ -87,7 +87,7 @@ const Productdetails = () => {
             <Card.Text className='m-0 mb-2 text-secondary' style={{fontSize:'14px'}} as='p'>Delivery</Card.Text>
             <div className="location d-flex align-items-center">
             <CiLocationOn className='fs-3 m-0 me-2' />
-            <Card.Text className='m-0'>Bharatpur-04, Laxmipur, Chitwan</Card.Text>
+            <Card.Text className='m-0'>London, Brookyln street, 22</Card.Text>
             </div>
             <hr />
             <div className="delivery d-flex align-items-center mb-3">
